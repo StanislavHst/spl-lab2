@@ -1,0 +1,5 @@
+http:http//a/
+aftp://b/c/
+https://ab.cd/abcdabcddcab/
+http://a/z/
+ftp://b/@/

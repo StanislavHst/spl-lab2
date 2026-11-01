@@ -1,0 +1,12 @@
+.idea/
+.vs/
+.vscode/
+**/bin/
+**/obj/
+*.vcxproj.user
+*.suo
+*.user
+*.pdb
+*.ilk
+*.exe
+*.dll

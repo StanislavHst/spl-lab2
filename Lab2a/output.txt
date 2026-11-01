@@ -1,0 +1,48 @@
+<1, PROTOCOL, http>
+<1, COLON, :>
+<1, PROTOCOL, http>
+<1, SLASH, />
+<1, SLASH, />
+<1, IDEN, a>
+<1, SLASH, />
+<1, END, >
+
+<2, IDEN, a>
+<2, PROTOCOL, ftp>
+<2, COLON, :>
+<2, SLASH, />
+<2, SLASH, />
+<2, IDEN, b>
+<2, SLASH, />
+<2, IDEN, c>
+<2, SLASH, />
+<2, END, >
+
+<3, PROTOCOL, https>
+<3, COLON, :>
+<3, SLASH, />
+<3, SLASH, />
+<3, IDEN, ab>
+<3, DOT, .>
+<3, IDEN, cd>
+<3, SLASH, />
+<3, IDEN, abcdabcddcab>
+<3, SLASH, />
+<3, END, >
+
+<4, PROTOCOL, http>
+<4, COLON, :>
+<4, SLASH, />
+<4, SLASH, />
+<4, IDEN, a>
+<4, SLASH, />
+<4, UNKNOWN, z>
+
+<5, PROTOCOL, ftp>
+<5, COLON, :>
+<5, SLASH, />
+<5, SLASH, />
+<5, IDEN, b>
+<5, SLASH, />
+<5, UNKNOWN, @>
+

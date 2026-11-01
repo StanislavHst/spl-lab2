@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{BC8A1FFA-BEE3-4634-8014-F334798102B3}") = "Lab2a", "Lab2a\Lab2a.vcxproj", "{F11739E4-662E-4634-9CB3-566C42906AB1}"
+EndProject
+Project("{BC8A1FFA-BEE3-4634-8014-F334798102B3}") = "Lab2b", "Lab2b\Lab2b.vcxproj", "{DD152C94-4787-4762-A987-E92E96774E80}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|x64 = Debug|x64
+        Release|x64 = Release|x64
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {F11739E4-662E-4634-9CB3-566C42906AB1}.Debug|x64.ActiveCfg = Debug|x64
+        {F11739E4-662E-4634-9CB3-566C42906AB1}.Debug|x64.Build.0 = Debug|x64
+        {F11739E4-662E-4634-9CB3-566C42906AB1}.Release|x64.ActiveCfg = Release|x64
+        {F11739E4-662E-4634-9CB3-566C42906AB1}.Release|x64.Build.0 = Release|x64
+        {DD152C94-4787-4762-A987-E92E96774E80}.Debug|x64.ActiveCfg = Debug|x64
+        {DD152C94-4787-4762-A987-E92E96774E80}.Debug|x64.Build.0 = Debug|x64
+        {DD152C94-4787-4762-A987-E92E96774E80}.Release|x64.ActiveCfg = Release|x64
+        {DD152C94-4787-4762-A987-E92E96774E80}.Release|x64.Build.0 = Release|x64
+    EndGlobalSection
+EndGlobal

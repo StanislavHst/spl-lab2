@@ -1,0 +1,5 @@
+http://a/
+ftp://b/c/
+https://ab.cd/ab
+http://a/z/
+ftp://b/@/
